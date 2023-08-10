@@ -1,4 +1,6 @@
 algoritmo "semnome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 var
        cq,v1,q2,resultado:real

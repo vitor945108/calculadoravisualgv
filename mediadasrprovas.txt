@@ -1,0 +1,23 @@
+algoritmo "semnome"
+
+var
+p1,p2,p3,p4,media:real
+
+inicio
+       escreval("media final")
+     escreval("insira nota da p1")
+     leia(p1)
+     escreval("insira nota da p2")
+     leia(p2)
+     escreval("insira nota da p3")
+     leia(p3)
+     escreval("insira nota da p4")
+     leia(p4)
+     //calcula media
+    media <- (p1+p2+p3+p4)/4
+     escreval("o resultado final das prova:",media)
+     
+
+     
+
+fimalgoritmo

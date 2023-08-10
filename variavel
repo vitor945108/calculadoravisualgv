@@ -1,0 +1,21 @@
+variavel
+inteiro :p1,p2,p3,p4,soma 
+
+
+
+
+
+inicio
+calcular media final dos alunos da turma
+inseria p1
+valor p1
+inseria p2
+valor p2
+inseira p3 
+valor p3
+inseria p4
+valor  p4
+soma =(p1+p2+p3+p4)/4
+resultado
+mostra resultado soma 
+fim

@@ -1,0 +1,17 @@
+algoritmo "semnome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+
+var
+q1,q2,media:real
+inicio
+escreval("estoque medio de uma peça")
+escreval("insira quantidade minima")
+  leia(q1)
+  escreval("insira quantidade maxima")
+  leia (q2)
+  //calcular
+   media <- (q1+q2)/2
+   escreval("o resultado do estoque medio :",media)
+  
+fimalgoritmo
